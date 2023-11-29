@@ -24,7 +24,7 @@ function Mainhead() {
             </div>
             <div className="col-12 col-md-2">
               <button type="submit" className="btn btn-primary">
-                Find Blog
+                Search
               </button>
             </div>
           </form>
